@@ -1,6 +1,4 @@
-//Wer:Louis Jourdan
-//Was: PWM-Steuerung mit TemperaturSensor
-//Wann:31.05.2021
+
 
 
 
@@ -35,8 +33,8 @@ const long timeoutTime = 20000;
 ////////////////////////////////////////////////////////
 
 //Enter your SSID and PASSWORD
-const char* ssid = "FRITZ!Box 7530 DM";
-const char* password = "57445448113877249181";
+const char* ssid = "********";
+const char* password = "*******";
 
 
 
